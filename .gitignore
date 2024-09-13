@@ -1,0 +1,16 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+venv/
+env/
+
+
+# Configuración del IDE
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Archivos del sistema
+.DS_Store
