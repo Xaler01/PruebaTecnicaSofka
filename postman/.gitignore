@@ -1,0 +1,10 @@
+
+# Archivos de configuración de entorno
+*.env
+
+# Archivos generados por el sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de Postman temporales
+postman/*.json
