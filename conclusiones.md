@@ -1,6 +1,4 @@
-# Conclusiones del Proyecto
-
-## Resumen
+# Conclusiones del ejercicio 2 demoBlaze
 
 Las pruebas de la API de PetStore se llevaron a cabo utilizando Postman. A continuación, se detallan los hallazgos y conclusiones del ejercicio.
 
@@ -26,3 +24,7 @@ Las pruebas de la API de PetStore se llevaron a cabo utilizando Postman. A conti
 ## Recomendaciones
 
 - Verificar la consistencia de los datos en los endpoints de búsqueda.
+
+---
+
+¡Gracias por revisar el proyecto!
